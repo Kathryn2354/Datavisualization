@@ -24,7 +24,18 @@ The data that surprised me the most are 1) undernourishment turns out to be the 
 Generally, it is not as hard as I initially anticipated to work with the data, although the dataset is very large and relatively complicated with many parameters. I have to initially sort the data carefully by the specific parameters and then mix-match them in TABLEAU to identify useful conclusions. 
 
 ## Discoveries & Insights
-![Figure 1](Datavisualization/img/Figure 1. Tb poplation ranking by countries.png)
+![Figure 1  Tb population ranking by countries](https://user-images.githubusercontent.com/96843197/155802083-deffdf46-f6a8-4c6f-aa81-e93aeb320a8c.png)
+
+![Figure 2  Tb infection gender bias](https://user-images.githubusercontent.com/96843197/155802132-f1b1087b-5a70-4fa3-947c-42971cf7aa14.png)
+
+![Figure 3  Tb infection gender bias with consideration of ages](https://user-images.githubusercontent.com/96843197/155802137-d17d4e99-84b5-4a63-a386-e3ea2b5c696e.png)
+
+![Figure 4  15-year-old or older has the highest number of Tb infection](https://user-images.githubusercontent.com/96843197/155802144-974d37cf-c046-48e0-aea2-49f29f464fa1.png)
+
+
+
+
+
 The discoveries and insights are illustrated in a total of 11 figures and explained with captions (more than 20 words each).
 
 ## Conclusion
