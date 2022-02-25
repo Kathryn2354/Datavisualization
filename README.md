@@ -47,7 +47,7 @@
 
 ![Figure 11  Tb risk factor- diabetes, by countries](https://user-images.githubusercontent.com/96843197/155802313-ffd012d7-f180-42ae-b074-345ee3fc2db0.png)
 
-The discoveries and insights are illustrated in a total of 11 figures and explained with captions (more than 20 words each). </p>
+<p style="color:black;"> The discoveries and insights are illustrated in a total of 11 figures and explained with captions (more than 20 words each). </p>
 
 ## Conclusion
 
