@@ -4,8 +4,9 @@
 
 ## Introduction
 
-- What is the core discovery you made, the most interesting thing that you can describe with this data? 
-- What will your supporting arguments be for your discovery?
+The core discovery of this research is 3-fold. First, we found the countries with the greatest number of Tb are almost exclusively developing countries, with India, Philippines, China, Indonesia, Pakistan, Nigeria, South Africa, and Bangladesh rounded up top 8. Second, more males are having Tb than females. Third, the majority of Tb patients are 15-year-old or older. Fourth, the most possible risk factors include undernourishment, smoking, and alcohol consumption.
+
+The supporting arguments for the discovery are the extensive worldwide surveys on the Tb burden related to age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment.  
 
 ## Dataset
 
