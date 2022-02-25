@@ -24,7 +24,7 @@ The data that surprised me the most are 1) undernourishment turns out to be the 
 Generally, it is not as hard as I initially anticipated to work with the data, although the dataset is very large and relatively complicated with many parameters. I have to initially sort the data carefully by the specific parameters and then mix-match them in TABLEAU to identify useful conclusions. 
 
 ## Discoveries & Insights
-<img src="/Datavisualization/img/Figure 1. Tb poplation ranking by countries.png", height="200", width="200">
+![Figure 1](/Datavisualization/img/Figure 1. Tb poplation ranking by countries.png", height="200", width="200")
 The discoveries and insights are illustrated in a total of 11 figures and explained with captions (more than 20 words each).
 
 ## Conclusion
