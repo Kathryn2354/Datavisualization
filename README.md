@@ -32,9 +32,19 @@ Generally, it is not as hard as I initially anticipated to work with the data, a
 
 ![Figure 4  15-year-old or older has the highest number of Tb infection](https://user-images.githubusercontent.com/96843197/155802144-974d37cf-c046-48e0-aea2-49f29f464fa1.png)
 
+![Figure 5  Risk factors for Tb infection](https://user-images.githubusercontent.com/96843197/155802224-7a1bcc48-4423-4944-9ace-768098cc4e09.png)
 
+![Figure 6  Tb health risk factors among genders](https://user-images.githubusercontent.com/96843197/155802235-05587273-ef9e-4702-894e-6a689f122661.png)
 
+![Figure 7  Tb infection risk factor -undernourishment by countries](https://user-images.githubusercontent.com/96843197/155802245-441e4e9e-b14b-4faf-b664-09a60c8b0ad0.png)
 
+![Figure 8  Tb infection risk factor -smoking, by countries](https://user-images.githubusercontent.com/96843197/155802269-e682e1aa-1fa8-4376-bc74-4d3824d35520.png)
+
+![Figure 9  Tb infection risk factor -alcohol consumption, by countries](https://user-images.githubusercontent.com/96843197/155802274-ee156256-31b0-4374-bacf-dd800c5b0949.png)
+
+![Figure 10 Tb infection risk factor -HIV, by countries](https://user-images.githubusercontent.com/96843197/155802306-ac27e455-eca5-4011-be7a-a40c94ee974c.png)
+
+![Figure 11  Tb risk factor- diabetes, by countries](https://user-images.githubusercontent.com/96843197/155802313-ffd012d7-f180-42ae-b074-345ee3fc2db0.png)
 
 The discoveries and insights are illustrated in a total of 11 figures and explained with captions (more than 20 words each).
 
