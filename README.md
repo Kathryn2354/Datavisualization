@@ -4,9 +4,9 @@
 
 ## Introduction
 
-The core discovery of this research is 3-fold. First, we found the countries with the greatest number of Tb are almost exclusively developing countries, with India, Philippines, China, Indonesia, Pakistan, Nigeria, South Africa, and Bangladesh rounded up top 8. Second, more males are having Tb than females. Third, the majority of Tb patients are 15-year-old or older. Fourth, the most possible risk factors include undernourishment, smoking, and alcohol consumption.
+<p style="font-size:100%;">The core discovery of this research is 3-fold. First, we found the countries with the greatest number of Tb are almost exclusively developing countries, with India, Philippines, China, Indonesia, Pakistan, Nigeria, South Africa, and Bangladesh rounded up top 8. Second, more males are having Tb than females. Third, the majority of Tb patients are 15-year-old or older. Fourth, the most possible risk factors include undernourishment, smoking, and alcohol consumption.</p>
 
-The supporting arguments for the discovery are the extensive worldwide surveys on the Tb burden related to age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment.  
+<p style="font-size:100%;">The supporting arguments for the discovery are the extensive worldwide surveys on the Tb burden related to age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment.</p>
 
 ## Dataset
 The dataset was obtained from the Global Tuberculosis Reports 2021 prepared by World Health Organization (WHO) ([link](https://www.who.int/teams/global-tuberculosis-programme/data)). The data is about the Tb burden worldwide, sorted by countries in alphabetical order. The data are collected from each country with consideration of age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment.  
