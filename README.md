@@ -1,6 +1,6 @@
 # Title
-### Worldwide burden of Tuberculosis (Tb): risk factors and age/gender disparities
-## Kathryn Li
+## Worldwide burden of Tuberculosis (Tb): risk factors and age/gender disparities
+### Kathryn Li
 
 ## Introduction
 
