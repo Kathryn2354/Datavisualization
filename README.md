@@ -9,7 +9,7 @@
 
 <p style="color:black;">The supporting arguments for the discovery are the extensive worldwide surveys on the Tb burden related to age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment.</p>
 
-## Datase
+## Dataset
 <p style="color:black;">The dataset was obtained from the Global Tuberculosis Reports 2021 prepared by World Health Organization. The data is about the Tb burden worldwide, sorted by countries in alphabetical order. The data are collected from each country with consideration of age, sex, and health issues including diabetes, HIV infection, smoking, alcohol consumption, and undernourishment. </p>
 
 [WHO](https://www.who.int/teams/global-tuberculosis-programme/data)
